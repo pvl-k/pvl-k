@@ -17,16 +17,16 @@
 <p >
   <!-- get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 
-  <code><img width="10%" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" /></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" alt="Greenplum" /></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="SQL" /></code>
-  <code><img width="10%" src="https://cdn.simpleicons.org/liquibase" alt="Liquibase" /></code>
-  <code><img width="10%" src="https://cdn.simpleicons.org/python" alt="Python" /></code>
+  <code><img width="5%" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" /></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" alt="Greenplum" /></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="SQL" /></code>
+  <code><img width="5%" src="https://cdn.simpleicons.org/liquibase" alt="Liquibase" /></code>
+  <code><img width="5%" src="https://cdn.simpleicons.org/python" alt="Python" /></code>
   <br />
-  <code><img width="10%" src="https://cdn.simpleicons.org/dbt" alt="dbt" /></code>
-  <code><img width="10%" src="https://cdn.simpleicons.org/apacheairflow" alt="Airflow" /></code>
-  <code><img width="10%" src="https://cdn.simpleicons.org/git" alt="Git" /></code>
-  <code><img width="10%" src="https://cdn.simpleicons.org/apachesuperset" alt="Superset" /></code>
-  <code><img width="10%" src="https://avatars.githubusercontent.com/u/98409838?s=200&v=4" alt="DataLens" /></code>
+  <code><img width="5%" src="https://cdn.simpleicons.org/dbt" alt="dbt" /></code>
+  <code><img width="5%" src="https://cdn.simpleicons.org/apacheairflow" alt="Airflow" /></code>
+  <code><img width="5%" src="https://cdn.simpleicons.org/git" alt="Git" /></code>
+  <code><img width="5%" src="https://cdn.simpleicons.org/apachesuperset" alt="Superset" /></code>
+  <code><img width="5%" src="https://avatars.githubusercontent.com/u/98409838?s=200&v=4" alt="DataLens" /></code>
 </p>
 
