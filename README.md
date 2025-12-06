@@ -1,6 +1,6 @@
 [![Github](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/pvl-k)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pvl-k/)
-[![Website](https://img.shields.io/badge/-Website-4CAF50?style=flat&logo=Google-Chrome&logoColor=white)](https://pvl-k.github.io)
+<!-- [![Website](https://img.shields.io/badge/-Website-4CAF50?style=flat&logo=Google-Chrome&logoColor=white)](https://pvl-k.github.io) -->
 [![CV](https://img.shields.io/badge/-CV-FF5722?style=flat&logo=Read-the-Docs&logoColor=white)](https://pvl-k.github.io/cv.html)
 
 **About Me:**
