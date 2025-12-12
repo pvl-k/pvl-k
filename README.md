@@ -7,8 +7,8 @@
 
 - 👨🏽‍💻 Analytics Engineer & Data Warehouse System Analyst;
 - 👀 I'm interested in Analytics Engineering, Reporting and Data Modelling;
-- 💼 I have experience in Data, Analytics & Reporting for more than 5 years;
-- 🎯 I'm an advocate of **Activity Schema** and **Schema-less** data storage models;
+- 💼 I have hands-on experience in Data, Analytics & Reporting for more than 5 years;
+- 🎯 I'm an proponent of **Activity Schema** and **Schema-less** data storage models;
 - 🚀 I believe in synergistic use of **dbt** and **git** to reduce time-to-data, including rapid prototyping and testing of data marts;
 - 📫 How you can reach me: [LinkedIn](https://www.linkedin.com/in/pvl-k/) or find my contact details in my [CV](https://pvl-k.cv/cv.html).
 
